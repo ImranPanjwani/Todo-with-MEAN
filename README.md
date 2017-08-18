@@ -14,7 +14,7 @@ Execute the http://localhost:3000/api/setupTodo to insert seed data.
 
 Now the api is setup and its various endpoints are-
 
-GET  - http://localhost:3000/api/todos/:uname - returns all the todos for the given user
+GET  - http://localhost:3000/api/todos/rajesh - returns all the todos for the given user
 
 GET  - http://localhost:3000/api/todo/:id     - returns a todo based on an id
 
